@@ -80,16 +80,12 @@
     <Reference Include="Microsoft.Build.Utilities.v12.0, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
 	-->
     <Reference Include="Microsoft.Build">
-      <HintPath>$(MSBuildToolsPath)\Microsoft.Build.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Build.Framework">
-      <HintPath>$(MSBuildToolsPath)\Microsoft.Build.Framework.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Build.Utilities">
-      <HintPath>$(MSBuildToolsPath)\Microsoft.Build.Utilities.Core.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Build.Tasks.Core">
-      <HintPath>$(MSBuildToolsPath)\Microsoft.Build.Tasks.Core.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Web.XmlTransform">
       <HintPath>..\packages\Microsoft.Web.Xdt.2.1.1\lib\net40\Microsoft.Web.XmlTransform.dll</HintPath>
